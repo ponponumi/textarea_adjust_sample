@@ -13,6 +13,10 @@ body{
     @include mq.mq($until: 960px) {
         padding: 30px;
     }
+
+    @include mq.mq($until: 520px) {
+        padding: 30px 10px;
+    }
 }
 
 input,textarea{
