@@ -11,5 +11,9 @@ form{
         input,textarea,label{
             display: block;
         }
+
+        label{
+            margin-bottom: 5px;
+        }
     }
 }
