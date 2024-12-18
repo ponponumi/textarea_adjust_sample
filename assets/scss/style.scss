@@ -9,6 +9,10 @@ h1{
 body{
     padding: 30px 60px;
     line-height: 1.8;
+
+    @include mq.mq($until: 960px) {
+        padding: 30px;
+    }
 }
 
 input,textarea{
