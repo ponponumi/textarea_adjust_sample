@@ -4,6 +4,13 @@ body{
     padding: 30px 60px;
 }
 
+input,textarea{
+    border: {
+        width: 1px;
+        radius: 3px;
+    };
+}
+
 form{
     >div{
         margin: 20px 0;
