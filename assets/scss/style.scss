@@ -1,5 +1,5 @@
 @use "destyle.css";
-@use "sass-mq";
+@use "sass-mq" as mq;
 
 h1{
     font-weight: bold;
