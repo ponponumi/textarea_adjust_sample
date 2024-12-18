@@ -9,6 +9,7 @@
     "vite": "^6.0.3"
   },
   "dependencies": {
+    "destyle.css": "^4.0.1",
     "textarea-auto-height-adjust": "^1.0.0"
   }
 }
