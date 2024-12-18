@@ -1,5 +1,9 @@
 @use "destyle.css";
 
+body{
+    padding: 30px 60px;
+}
+
 form{
     >div{
         input,textarea,label{
